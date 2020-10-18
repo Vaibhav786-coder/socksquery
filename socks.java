@@ -22,7 +22,7 @@ public class tcsninja9 {
         {
             arr[u]=Integer.parseInt( arrst[u]);
         }
-   
+        Arrays.sort(arr);
     
         for(int y=0;y<n-1;y++)
         {
