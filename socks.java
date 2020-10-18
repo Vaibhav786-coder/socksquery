@@ -1,7 +1,7 @@
 package tcs_examples;
 import java.util.*;
 
-public class tcsninja9 {
+public class socks {
    public static void main(String [] args)
 {
    int count =0;
